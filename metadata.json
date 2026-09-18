@@ -1,0 +1,6 @@
+{
+  "name": "시기별 해외여행지 추천 (SeasonTrip)",
+  "description": "1월부터 12월까지 월별·계절별 최적의 날씨와 테마에 맞춘 해외여행지 큐레이션 및 맞춤 가이드",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
